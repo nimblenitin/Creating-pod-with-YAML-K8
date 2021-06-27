@@ -2,6 +2,7 @@
 Simple example to create Pod in Declarative method with YAML
 
 Steps followed-
+```
 
 1. Create the YAML file
 vim podByDeclarative.yaml 
@@ -23,4 +24,6 @@ spec:
  
  3. View the Pod created:
  kubectl get pods -o wide
+ 
+ ```
 
