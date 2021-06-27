@@ -1,7 +1,7 @@
 # Creating-pod-with-YAML-K8
 Simple example to create Pod in Declarative method with YAML
 
-##Steps followed-
+#Steps followed-
 *As Root*
 ```
 
@@ -27,4 +27,4 @@ kubectl apply -f podByDeclarative.yaml
 kubectl get pods -o wide
  
  ```
-
+*As Root*
